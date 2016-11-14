@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected List<Cocktail> cocktails;
     protected CocktailAdapter cocktailAdapter;
+    protected LinearLayoutManager layoutManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,28 +69,26 @@ public class MainActivity extends AppCompatActivity {
             getDrinks(0);
         }
 
-        refreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
-            @Override
-            public void onRefresh() {
-                refreshData();
-            }
-        });
-
-
-        cocktails = new ArrayList<>();
-        cocktails.addAll(SQLite.select().from(Cocktail.class).queryList());
-        LinearLayoutManager layoutManager = new LinearLayoutManager(getBaseContext());
-        cocktailRV.setLayoutManager(layoutManager);
+        cocktails = SQLite.select().from(Cocktail.class).queryList();
         cocktailAdapter = new CocktailAdapter(cocktails);
+        layoutManager = new LinearLayoutManager(getBaseContext());
+        cocktailRV.setLayoutManager(layoutManager);
         cocktailRV.setAdapter(cocktailAdapter);
 
         cocktailRV.addOnScrollListener(new EndlessRecyclerViewScrollListener(layoutManager) {
             @Override
-            public void onLoadMore(int page, int totalItemsCount) {
+            public void onLoadMore(int page, int totalItemsCount, RecyclerView view) {
 
                 int count = PersistentHelper.getDrinkCount();
 
-                getDrinks(count + 25);
+                Log.i("TAGTAG", "onLoadMore: " + count);
+            }
+        });
+
+        cocktailRV.addOnScrollListener(new RecyclerView.OnScrollListener() {
+            @Override
+            public void onScrollStateChanged(RecyclerView recyclerView, int newState) {
+                super.onScrollStateChanged(recyclerView, newState);
             }
         });
 
@@ -101,12 +100,13 @@ public class MainActivity extends AppCompatActivity {
 
         HashMap<String, String> attrs = new HashMap<>();
         attrs.put("start", String.valueOf(fromCount));
+        attrs.put("pageSize", String.valueOf(10));
 
         Api.drinks.getCocktails(attrs).enqueue(new ApiCallback<DrinkListResponse>() {
             @Override
             public void onOK(Call<DrinkListResponse> call, Response<DrinkListResponse> response) {
 
-                PersistentHelper.setDrinkCount(fromCount + 25);
+                PersistentHelper.setDrinkCount(fromCount + 10);
                 refreshData();
             }
 
