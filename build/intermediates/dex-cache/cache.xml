@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_dac4ca44db2695ebfd750d4b222cc53dd8111961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_1ec733bc9d368a26e02ebfed723a77002fcebc6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow-kotlinextensions/4.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef1986f79bdad2c7bd9c62d83e5768800da126a7">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.github.Raizlabs.DBFlow-dbflow-kotlinextensions-4.0.0-beta1_4f5a31c4d98cf0f9524491d94fc9b677f7df5382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_28770d70aa0e73df1511378b561feb344b0ff62d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/okio-1.6.0_ab0734696e802a8605e36490e296818cf6dc881f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.0_9af1ec8e694c2c5ec225c9943075cb7c7a8cb051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_785556079d7d01c29c99db9780cdf0ece5476588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.4/9c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0/kotlin-stdlib-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.4_addd29e7ed5d8a2bee894076dc49d112cc879e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_03a946ed7f67b1437e91119714f8434478a9b86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_23ca2b9838e59b82376246be1d58c1cdc768f524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3cf400b79da51bd9d1bb5a8a8634e3defd7f6683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.1.2_f3473f833b7f2051dc05c61c41b95f59238c1cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_039046a6662603f215a5fbe06056cc00c10a1004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_9cf29d85a2e5ffccd20eacd90611de87ee98fdce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/4.0.0-beta1/ce9d2f83c5f824ef90793e6e5353570a64cce211/dbflow-core-4.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9d2f83c5f824ef90793e6e5353570a64cce211">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/dbflow-core-4.0.0-beta1_5ffe2bc4537818af75bb68529ed963eed6c82b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_880b5928d1525addba8d390c04f79fae9626687b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_37991d58c76bc313eecae98e257b3cfdc1686391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_e7291b0e64f121ba8de9f280bb213457f215022e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_7fd5f0e72b19d105f44d5e875edb662f096189bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_6bb6bb527ed89e1903c50f28588a7018cafad7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/4.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7becf15dad3e845f24b2191034be3ca4c6c31249">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.github.Raizlabs.DBFlow-dbflow-4.0.0-beta1_cb64e629b2d53c7130b6011939fdd76ba5ea5db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_0a37940a8f651496f5af55c9015e679d2a0784e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_b13e0de4185bed0b07c2d546b089d8e206434b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_a6967178cbc11b12c59a0d8275c26e368b1d5357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_79ee26487869677d7588b7de330c0f15462dad3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_1912dd65a6e4ba52b53ec445eebd9720cf981ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ec90688b85d55867f3a0d422eb47305dbe71dda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/gson-2.6.1_8eda951d7e345ea6e618b67d97a12adf08e78738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.4/8e25da5e31669f5acf514bdd99b94ff5c7003b3b/kotlin-runtime-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e25da5e31669f5acf514bdd99b94ff5c7003b3b">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.4_06e4971a767fd60839ce679725bb6954a0e9d4d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_7de7daae4b39727e975364adeb14ca3de3fd3a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_da8d53ec2a582e1c255bdf83c1bcd336fd01e076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_c12ad297632514f03b3f84533aeb4e2a4e89dd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_929c2f9bd58cc5b226dfbece1343f7a08db0ea51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/wittig/CocktailExplorerWithApi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_25e2cc879b8de8c44a7d66bdb5ee00841ca83caf.jar" />
+    </item>
+
+</items>

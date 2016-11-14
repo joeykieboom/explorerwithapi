@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/listitem_notificationPane_notification_root"
+    android:background="#F5F5F5">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        android:padding="15dp">
+        <ImageView
+            android:layout_marginTop="4dp"
+            android:layout_width="33dp"
+            android:layout_height="33dp"
+            android:visibility="gone"
+            android:scaleType="centerCrop"
+            android:id="@+id/listitem_notificationPane_notification_squareImageView" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_marginTop="4dp"
+            android:layout_width="33dp"
+            android:layout_height="33dp"
+            android:id="@+id/listitem_notificationPane_notification_roundedImageView"
+            android:src="@drawable/event_header_dummy"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="15dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="#363636"
+                android:id="@+id/cocktail_name"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="13sp"
+                android:textColor="#363636"
+                android:id="@+id/listitem_notificationPane_notification_descriptionView"
+                android:layout_marginBottom="4dp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="3pt"
+                    android:layout_height="3pt"
+                    android:id="@+id/listitem_notificationPane_notification_unreadView"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="7dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="11sp"
+                    android:textColor="#6c6c6c"
+                    android:alpha="0.80"
+                    android:id="@+id/listitem_notificationPane_notification_subtitleView" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#E5E5E5"></View>
+
+</LinearLayout>
